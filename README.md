@@ -1,6 +1,18 @@
 <h1>Podcast-8bits gerado por IA</h1>
 
+<h2>Introdução</h2>
+<p>Foi criado um podcast utilizando IA com as tecnologia listadas no desenvolvimento </p>
+
 <h1>Tecnologias utilizadas</h1>
+<ul>
+  <li><a href="https://chatgpt.com/" target="_blank">Chatgpt</a></li>
+  <li><a href="https://elevenlabs.io/" target="_blank">Event labs</a></li>
+  <li><a href="https://www.notion.com/" target="_blank">Notion</a></li>
+  <li><a href="https://www.audacityteam.org/" target="_blank">Audacity</a></li>
+</ul>
+<br>
+
+<h1>Desenvolvimento</h1>
 <ul>
   <li>Roteiro gerado via ChatGPT</li>
   <li>Áudio gerado pela ElevenLabs</li>
