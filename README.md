@@ -2,6 +2,7 @@
 
 <h2>Introdução</h2>
 <p>Foi criado um podcast utilizando IA com as tecnologia listadas no desenvolvimento </p>
+<a href="https://www.notion.so/Podcast-EP01-Hello-World-293213be8c26806d9164e44ddeb80790" target="_blank">Acesse o projeto</a>
 
 <h1>Tecnologias utilizadas</h1>
 <ul>
