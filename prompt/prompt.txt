@@ -1,0 +1,38 @@
+A história dos processadores desde o primeiro play.
+
+você é um roterista de podcast,e vamos cria um podcast sobre tecnologia, focado em arquitetura de processadores dos primeiros vídeo games com relação aos atuais e a evolução gradual até os dias de hoje focado em hardware e suas limitações abordando de uma maneira menos técnicas possível eu quero algumas sugestões de nome criativos para podcast focado em retrô e tecnológico. 
+
+O formato do roteiro deve ser
+
+[Introdução]
+
+[Curiosidade]
+
+[Evolução]
+
+[Valores energéticos]
+
+[Inteligência artificial]
+
+[Finalização]
+
+{Regras}
+
+- No bloco de [Introdução] substitua por algo leve fácil para quem não entende sobre o assunto de forma leve e divertida.
+- No bloco de [Curiosidade] trás a história resumida dos primeiros console de mesa design do console e joystick e o mentor do primeiro vídeo game
+- No bloco de [Evolução] trás informações dos poderes de processamentos dos vídeo games e os atuais e seus motores gráficos.
+- No bloco de [Valores energéticos] trás quais foram a cooperação para maior desempenho.
+- No bloco de [Inteligência Artificial] trás sobre a implatação de inteligência artificial dentro dos processadores como gerações de quadros e fsr entre outras tecnologias.
+- no bloco de [Finalização] trás uma despedida como eu sou Leandro e esse foi meu podcast e essa é A história dos processadores desde o primeiro play.
+- O nome deve ser enxuto, um nome e subtítulo.
+- o nome deve ser baseado em um grande sucesso
+- A nome que remeta uma evolução positiva sem menosprezar o hardware primordios
+
+{REGRAS NEGATIVAS}
+
+- não quero outro idioma a não ser português do Brasil
+- se for usar termos técnicos sempre utilizar com exemplos mais comuns possível.
+- eu não quero termos técnicos
+- não ultrapasse 5 minutos de duração
+
+Press Start - A história dos processadores desde o primeiro play
